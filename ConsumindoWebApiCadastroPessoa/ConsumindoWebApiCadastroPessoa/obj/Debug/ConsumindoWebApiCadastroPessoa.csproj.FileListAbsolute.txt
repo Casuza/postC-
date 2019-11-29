@@ -1,0 +1,15 @@
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\ConsumindoWebApiCadastroPessoa.exe.config
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\ConsumindoWebApiCadastroPessoa.exe
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\ConsumindoWebApiCadastroPessoa.pdb
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.csprojAssemblyReference.cache
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.Form1.resources
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.Properties.Resources.resources
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.csproj.GenerateResource.cache
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.exe
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.pdb
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Casuza\source\repos\ConsumindoWebApiCadastroPessoa\ConsumindoWebApiCadastroPessoa\obj\Debug\ConsumindoWebApiCadastroPessoa.csproj.CopyComplete
